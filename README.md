@@ -1,29 +1,5 @@
 <div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
-  <animated-image data-catalyst="" style="width: 450px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" data-target="animated-image.originalLink"><img alt="Lowdefy" src="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="96187" _msthash="305"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="Lowdefy" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" _msthidden="A" _mstalt="96187" _msthash="306" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="450" height="360"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Lowdefy" hidden="" _msthidden="A" _mstaria-label="179738" _msthash="307"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Lowdefy" _msthidden="A" _mstaria-label="179738" _msthash="308">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Lowdefy in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" target="_blank" _msthidden="A" _mstaria-label="541216" _msthash="309">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
+ 
 </p>
 <p dir="auto"><a href="https://discord.gg/WmcJgXt" rel="nofollow"><img src="https://camo.githubusercontent.com/65840bc5f8d7f5b6ed2d20b33eabdfae1cd0ec0bb48e74ac5e31bf8cc2c08f62/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3732393639363734373236313236333936323f6c6162656c3d4a6f696e2532306f7572253230446973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="不和" data-canonical-src="https://img.shields.io/discord/729696747261263962?label=Join%20our%20Discord&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;" _mstalt="93990" _msthash="310"></a></p>
 <p dir="auto"><a href="https://twitter.com/intent/tweet?text=Build%20web%20apps%2C%20admin%20panels%2C%20BI%20dashboards%2C%20and%20CRUD%20apps%20with%20ease%21%20Try%20&amp;url=https://lowdefy.com&amp;via=lowdefy&amp;hashtags=lowcode,lowdefy,internaltools,developers,opensource" rel="nofollow"><img src="https://camo.githubusercontent.com/915cc7497c1ab8af89fe08189a66173a688f43b0fea0465a309e5a8fdd428201/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f6c6f676f3d74776974746572267374796c653d666c61742d7371756172652675726c3d68747470732533412532462532466c6f77646566792e636f6d" alt="鸣叫" data-canonical-src="https://img.shields.io/twitter/url?logo=twitter&amp;style=flat-square&amp;url=https%3A%2F%2Flowdefy.com" style="max-width: 100%;" _mstalt="61555" _msthash="311"></a>
