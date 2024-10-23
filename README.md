@@ -1,131 +1,128 @@
-<p align="center">
-  <img alt="Lowdefy"  src="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" data-canonical-src="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" width="450" />
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <animated-image data-catalyst="" style="width: 450px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" data-target="animated-image.originalLink"><img alt="Lowdefy" src="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="96187" _msthash="305"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" target="_blank" _msthidden="1">
+          
+        <span data-target="animated-image.imageContainer" _msthidden="1">
+            <img data-target="animated-image.replacedImage" alt="Lowdefy" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" _msthidden="A" _mstalt="96187" _msthash="306" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="450" height="360"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Lowdefy" hidden="" _msthidden="A" _mstaria-label="179738" _msthash="307"></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Lowdefy" _msthidden="A" _mstaria-label="179738" _msthash="308">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Lowdefy in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/7165064/121780045-d0021200-cb9e-11eb-84f9-ff67c8255ec6.gif" target="_blank" _msthidden="A" _mstaria-label="541216" _msthash="309">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </p>
-
-[![Discord](https://img.shields.io/discord/729696747261263962?label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/WmcJgXt)
-
-[![Tweet](https://img.shields.io/twitter/url?logo=twitter&style=flat-square&url=https%3A%2F%2Flowdefy.com)](https://twitter.com/intent/tweet?text=Build%20web%20apps%2C%20admin%20panels%2C%20BI%20dashboards%2C%20and%20CRUD%20apps%20with%20ease%21%20Try%20&url=https://lowdefy.com&via=lowdefy&hashtags=lowcode,lowdefy,internaltools,developers,opensource)
-[![Follow](https://img.shields.io/twitter/follow/lowdefy?logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=lowdefy)
-
-![Tests](https://github.com/lowdefy/lowdefy/workflows/Tests/badge.svg?branch=main)
-[![Maintainability](https://api.codeclimate.com/v1/badges/6efe9bfa0648772cae00/maintainability)](https://codeclimate.com/github/lowdefy/lowdefy/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/6efe9bfa0648772cae00/test_coverage)](https://codeclimate.com/github/lowdefy/lowdefy/test_coverage)
-[![Codecov](https://codecov.io/gh/lowdefy/lowdefy/branch/main/graph/badge.svg?token=U2AEEH9K1W)](https://codecov.io/gh/lowdefy/lowdefy)
-
-# Lowdefy 🫶 The Config Webstack for Business Apps
-
-Lowdefy is a source available web framework that enables you to:
-
-- 🎨 Build web UIs and connect to databases and APIs.
-- 🔌 Extend app functionality with npm plugins.
-- ⚛️ Built on top of [Next.js](https://nextjs.org/) and [Auth.js](https://authjs.dev/).
-- 🌐 Host your apps anywhere you host Next.js.
-- ✂️ Only code your business logic.
-
-Create internal tools, web apps, admin panels, BI dashboards, web sites and CRUD apps with simple YAML or JSON config.
-
-### 🛠 Build Web UIs with Easy Config
-
-Lowdefy config is easy to read, write, copy, paste, or template. Config when you can, but code when you need to.
-
-- Over 70 Blocks and 150 logic operators for a quick start.
-- Dynamic UIs with simple state management.
-- Responsive layouts out of the box.
-- Extend with custom React components.
-
-### 📡 Connect to Your Data and APIs
-
-Make API calls and read and write to your databases with minimal config. Build web apps that connect your data.
-
-- Build dynamic queries using variables and logic operators.
-- Execute requests from both authenticated and public pages.
-- Secure secrets for passwords and API keys.
-- Build custom connections with any npm modules.
-
-## 🔧 Extend Everything with NPM Plugins
-
-> Lowdefy's [Blocks](https://docs.lowdefy.com/blocks), [Requests](https://docs.lowdefy.com/connections-and-requests), [Operators](https://docs.lowdefy.com/operators), [Actions](https://docs.lowdefy.com/events-and-actions), Auth Providers, and Adapters can all be extended with plugins, making it the most flexible config web stack.
-> Powered by NPM, Lowdefy's plugin system allows developers to bundle modules using their preferred packages. Even unpublished plugins can be added to your repository, enabling easy use of project-specific code. See the [plugin docs](https://docs.lowdefy.com/plugins) and [the plugin project example](https://github.com/lowdefy/lowdefy-example-plugins) for more details.
-
-### 💼 Built for Developers and Enterprise-Ready
-
-#### 🌍 Deploy Anywhere
-
-Lowdefy runs as a Next.js app in production, so you can deploy it anywhere that supports Next.js deployment. Deploy with [Vercel](https://vercel.com), [Docker](https://docs.lowdefy.com/docker), or anything that runs Next.js apps.
-
-#### 🔒 Secured with Auth.js
-
-Authentication is built on top of Auth.js, providing the full flexibility and security from one of the most popular open-source auth layers. SSO, SAML, 2FA, no problem. Google, Okta, Auth0, and more - bring your own provider.
-
-#### 👩‍💻👨‍💻 Git Control for Humans
-
-Lowdefy's minimal config is designed to be easy to read, write, and understand, making it simple to copy, paste, review changes, or pick up where others left off. Defining apps using a structured schema speeds up development in teams of any size.
-
-#### 🔑 Public, Authenticated, and Role-Based Access
-
-Lowdefy supports building multi-page apps with both public and private pages, serving a wide range of use cases. Role-based access control (RBAC) allows for easy implementation of secure, granular access control where needed.
-
-### How Lowdefy Apps Work 👉 https://docs.lowdefy.com
-
-Lowdefy apps are built using:
-
-- 📦 [Blocks](https://docs.lowdefy.com/blocks) are the visual part of the app, the React components. Lowdefy provides a set of default block types but app capabilities can be extended with custom blocks.
-- ⚙️ [Operators](https://docs.lowdefy.com/operators) are the functions that are used to express logic within an app. Lowdefy has many built in easy to use operator functions for creating dynamic applications with ease, however, custom javascript operators can also be loaded.
-- ⚡️ [Actions](https://docs.lowdefy.com/events-and-actions) are triggered by events, like clicking a button or loading a page. When events are triggered, a list of javascript functions can be called. Lowdefy has a set of useful actions, but applications functionality can be enriched by adding custom Lowdefy actions.
-- 📣 [Requests](https://docs.lowdefy.com/connections-and-requests) make calls to external services to hydrate applications with data or post data to external services. Lowdefy doesn't have any data storage built in. Instead, it provides connections to external services like databases and APIs.
-
-We are working on expanding the list of connections, and you can vote for the ones you need [here](https://github.com/lowdefy/lowdefy/discussions/309).
-
-## Quick start
-
-Run:
-
-```bash
-pnpx lowdefy@latest init && pnpx lowdefy@latest dev
-```
-
-This will create a file called `lowdefy.yaml` in the current working directory that contains the configuration for a Lowdefy app (as well as a `.gitignore`) and launch a local development server at http://localhost:3000. Make changes in the `lowdefy.yaml` file to see them reflect in the app.
-
-### 🔗 More Lowdefy Links
-
-- Getting started with Lowdefy - https://docs.lowdefy.com/tutorial-start
-- Lowdefy website - https://lowdefy.com
-- Community forum - https://github.com/lowdefy/lowdefy/discussions
-- Join the Lowdefy Discord - https://discord.gg/WmcJgXt
-- Bug reports and feature requests - https://github.com/lowdefy/lowdefy/issues
-
-### ⛹️‍♀️ Contributing
-
-#### Lowdefy Plugins
-
-The simplest way to contribute to Lowdefy is by creating custom plugins like Blocks, Actions, Requests, Operators, or Auth Adapters and Providers, and publishing them to NPM for the community's benefit.
-
-Easily add and develop plugins in any Lowdefy project; refer to [the plugins project example](https://github.com/lowdefy/lowdefy-example-plugins) for a pnpm monorepo setup to jumpstart local plugin development.
-
-When publishing your plugin to NPM, include `lowdefy` in the name for easy discovery, and share it on our [Github Discussions](https://github.com/lowdefy/lowdefy/discussions) to inform the community.
-
-#### Lowdefy Platform Development
-
-Run Lowdefy servers locally by adding your Lowdefy config to the `app/..` folder. Use one of the following scripts to the server:
-
-- `pnpm app:cli:dev`: Starts the development server with the config provided in the `app` folder, useful for developing locally.
-- `pnpm app:cli:build`: Creates a production build of your lowdefy app for the config config provided in the `app` folder.
-- `pnpm app:cli:start`: Starts the production server of your lowdefy app built using the `build` command output.
-
-> See the project `package.json` scripts for more predefined scripts.
-
-Please also see [CONTRIBUTING.md](https://github.com/lowdefy/lowdefy/blob/main/CONTRIBUTING.md).
-
-### ☕️ Changelog
-
-Convert a v3 app to V4 - [See the v4 conversion notes.](https://docs.lowdefy.com/v3-to-v4)
-
-All changes to this project are documented in [CHANGELOG.md](https://github.com/lowdefy/lowdefy/blob/main/CHANGELOG.md).
-
-### 🔐 Security
-
-If you discover a vulnerability, please follow the guide in [SECURITY.md](https://github.com/lowdefy/lowdefy/blob/main/SECURITY.md) to disclose this to us responsibly.
-
-### 🤝 Code of Conduct
-
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to follow the [Contributor Covenant](https://www.contributor-covenant.org) code of conduct. See [CODE_OF_CONDUCT.md](https://github.com/lowdefy/lowdefy/blob/main/CODE_OF_CONDUCT.md) for more.
+<p dir="auto"><a href="https://discord.gg/WmcJgXt" rel="nofollow"><img src="https://camo.githubusercontent.com/65840bc5f8d7f5b6ed2d20b33eabdfae1cd0ec0bb48e74ac5e31bf8cc2c08f62/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3732393639363734373236313236333936323f6c6162656c3d4a6f696e2532306f7572253230446973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="不和" data-canonical-src="https://img.shields.io/discord/729696747261263962?label=Join%20our%20Discord&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;" _mstalt="93990" _msthash="310"></a></p>
+<p dir="auto"><a href="https://twitter.com/intent/tweet?text=Build%20web%20apps%2C%20admin%20panels%2C%20BI%20dashboards%2C%20and%20CRUD%20apps%20with%20ease%21%20Try%20&amp;url=https://lowdefy.com&amp;via=lowdefy&amp;hashtags=lowcode,lowdefy,internaltools,developers,opensource" rel="nofollow"><img src="https://camo.githubusercontent.com/915cc7497c1ab8af89fe08189a66173a688f43b0fea0465a309e5a8fdd428201/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f6c6f676f3d74776974746572267374796c653d666c61742d7371756172652675726c3d68747470732533412532462532466c6f77646566792e636f6d" alt="鸣叫" data-canonical-src="https://img.shields.io/twitter/url?logo=twitter&amp;style=flat-square&amp;url=https%3A%2F%2Flowdefy.com" style="max-width: 100%;" _mstalt="61555" _msthash="311"></a>
+<a href="https://twitter.com/intent/follow?screen_name=lowdefy" rel="nofollow"><img src="https://camo.githubusercontent.com/19bc4b851e5efd38006056546c6f47f0dbaff6eb2ad65c869c72e886cb208a98/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6c6f77646566793f6c6f676f3d74776974746572267374796c653d666c61742d737175617265" alt="跟随" data-canonical-src="https://img.shields.io/twitter/follow/lowdefy?logo=twitter&amp;style=flat-square" style="max-width: 100%;" _mstalt="79027" _msthash="312"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowdefy/lowdefy/workflows/Tests/badge.svg?branch=main"><img src="https://github.com/lowdefy/lowdefy/workflows/Tests/badge.svg?branch=main" alt="测试" style="max-width: 100%;" _mstalt="63128" _msthash="313"></a>
+<a href="https://codeclimate.com/github/lowdefy/lowdefy/maintainability" rel="nofollow"><img src="https://camo.githubusercontent.com/fc50bdab4d0fdf39497f774cc2957c375767f9b3b6dc13b3696c9e5d1b1c7029/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f36656665396266613036343837373263616530302f6d61696e7461696e6162696c697479" alt="可维护性" data-canonical-src="https://api.codeclimate.com/v1/badges/6efe9bfa0648772cae00/maintainability" style="max-width: 100%;" _mstalt="290069" _msthash="314"></a>
+<a href="https://codeclimate.com/github/lowdefy/lowdefy/test_coverage" rel="nofollow"><img src="https://camo.githubusercontent.com/33aaf09d1e1fe6cdc56c9f46a78ec9ed3f41cd7e8502517f2270eb601b693edd/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f36656665396266613036343837373263616530302f746573745f636f766572616765" alt="测试覆盖率" data-canonical-src="https://api.codeclimate.com/v1/badges/6efe9bfa0648772cae00/test_coverage" style="max-width: 100%;" _mstalt="200707" _msthash="315"></a>
+<a href="https://codecov.io/gh/lowdefy/lowdefy" rel="nofollow"><img src="https://camo.githubusercontent.com/9a2c7748f8a8d325c1f9dfc1ff4063421fdd8144669334cb5b3b7e12a5675c5c/68747470733a2f2f636f6465636f762e696f2f67682f6c6f77646566792f6c6f77646566792f6272616e63682f6d61696e2f67726170682f62616467652e7376673f746f6b656e3d553241454548394b3157" alt="Codecov 公司" data-canonical-src="https://codecov.io/gh/lowdefy/lowdefy/branch/main/graph/badge.svg?token=U2AEEH9K1W" style="max-width: 100%;" _mstalt="93886" _msthash="316"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="84880913" _msthash="317">Lowdefy 🫶 面向业务应用程序的 The Config Webstack</h1><a id="user-content-lowdefy--the-config-webstack-for-business-apps" class="anchor" aria-label="永久链接：Lowdefy 🫶 The Config Webstack for Business Apps" href="#lowdefy--the-config-webstack-for-business-apps" _mstaria-label="37943321" _msthash="318"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="175261151" _msthash="319">Lowdefy 是一个源代码可用的 Web 框架，它使您能够：</p>
+<ul dir="auto">
+<li _msttexthash="73144344" _msthash="320">🎨 构建 Web UI 并连接到数据库和 API。</li>
+<li _msttexthash="83873036" _msthash="321">🔌 使用 npm 插件扩展应用程序功能。</li>
+<li _msttexthash="42406182" _msthash="322">⚛️ 建立在 <a href="https://nextjs.org/" rel="nofollow" _istranslated="1">Next.js</a> 和 <a href="https://authjs.dev/" rel="nofollow" _istranslated="1">Auth.js</a> 之上。</li>
+<li _msttexthash="148314660" _msthash="323">🌐 在您托管 Next.js 的任何位置托管您的应用程序。</li>
+<li _msttexthash="79119833" _msthash="324">✂️ 仅对您的业务逻辑进行编码。</li>
+</ul>
+<p dir="auto" _msttexthash="425323093" _msthash="325">使用简单的 YAML 或 JSON 配置创建内部工具、Web 应用程序、管理面板、BI 仪表板、网站和 CRUD 应用程序。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="31786872" _msthash="326">🛠 使用 Easy Config 构建 Web UI</h3><a id="user-content--build-web-uis-with-easy-config" class="anchor" aria-label="永久链接：🛠使用 Easy Config 构建 Web UI" href="#-build-web-uis-with-easy-config" _mstaria-label="26744835" _msthash="327"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="464660144" _msthash="328">Lowdefy 配置易于阅读、写入、复制、粘贴或模板化。在可以的时候进行配置，但在需要时编码。</p>
+<ul dir="auto">
+<li _msttexthash="158365636" _msthash="329">超过 70 个 Block 和 150 个逻辑运算符，可快速入门。</li>
+<li _msttexthash="48883588" _msthash="330">具有简单状态管理的动态 UI。</li>
+<li _msttexthash="40472016" _msthash="331">开箱即用的响应式布局。</li>
+<li _msttexthash="62250344" _msthash="332">使用自定义 React 组件进行扩展。</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="44782465" _msthash="333">📡 连接到您的数据和 API</h3><a id="user-content--connect-to-your-data-and-apis" class="anchor" aria-label="固定链接：📡连接到您的数据和 API" href="#-connect-to-your-data-and-apis" _mstaria-label="26551070" _msthash="334"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="329811053" _msthash="335">进行 API 调用，并以最少的配置读取和写入您的数据库。构建连接数据的 Web 应用程序。</p>
+<ul dir="auto">
+<li _msttexthash="91168636" _msthash="336">使用变量和逻辑运算符构建动态查询。</li>
+<li _msttexthash="151359169" _msthash="337">执行来自经过身份验证的页面和公共页面的请求。</li>
+<li _msttexthash="51654850" _msthash="338">保护密码和 API 密钥的密钥。</li>
+<li _msttexthash="70028738" _msthash="339">使用任何 npm 模块构建自定义连接。</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="60535540" _msthash="340">🔧 使用 NPM 插件扩展所有内容</h2><a id="user-content--extend-everything-with-npm-plugins" class="anchor" aria-label="永久链接： 🔧 使用 NPM 插件扩展所有内容" href="#-extend-everything-with-npm-plugins" _mstaria-label="26975455" _msthash="341"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="5695752270" _msthash="342">Lowdefy 的 <a href="https://docs.lowdefy.com/blocks" rel="nofollow" _istranslated="1">Blocks</a>、<a href="https://docs.lowdefy.com/connections-and-requests" rel="nofollow" _istranslated="1">Requests</a>、<a href="https://docs.lowdefy.com/operators" rel="nofollow" _istranslated="1">Operators</a>、<a href="https://docs.lowdefy.com/events-and-actions" rel="nofollow" _istranslated="1">Actions</a>、Auth Providers 和 Adapters 都可以通过插件进行扩展，使其成为最灵活的配置 Web 堆栈。
+在 NPM 的支持下，Lowdefy 的插件系统允许开发人员使用他们喜欢的包来捆绑模块。甚至可以将未发布的插件添加到您的存储库中，从而轻松使用特定于项目的代码。有关更多详细信息，请参阅<a href="https://docs.lowdefy.com/plugins" rel="nofollow" _istranslated="1">插件文档</a>和<a href="https://github.com/lowdefy/lowdefy-example-plugins" _istranslated="1">插件项目示例</a>。</p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="79121822" _msthash="343">💼 专为开发人员和企业就绪而构建</h3><a id="user-content--built-for-developers-and-enterprise-ready" class="anchor" aria-label="永久链接：💼专为开发人员和企业就绪而构建" href="#-built-for-developers-and-enterprise-ready" _mstaria-label="27424046" _msthash="344"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="28842255" _msthash="345">🌍 随处部署</h4><a id="user-content--deploy-anywhere" class="anchor" aria-label="永久链接：🌍随处部署" href="#-deploy-anywhere" _mstaria-label="26228124" _msthash="346"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="985667462" _msthash="347">Lowdefy 在生产环境中作为 Next.js 应用程序运行，因此您可以将其部署到支持Next.js部署的任何位置。使用 <a href="https://vercel.com" rel="nofollow" _istranslated="1">Vercel</a>、<a href="https://docs.lowdefy.com/docker" rel="nofollow" _istranslated="1">Docker</a> 或任何运行Next.js应用程序进行部署。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="46771140" _msthash="348">🔒 使用 Auth.js 进行保护</h4><a id="user-content--secured-with-authjs" class="anchor" aria-label="永久链接：🔒使用 Auth.js 保护" href="#-secured-with-authjs" _mstaria-label="26275210" _msthash="349"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="806030641" _msthash="350">身份验证建立在 Auth.js 之上，通过最流行的开源身份验证层之一提供充分的灵活性和安全性。SSO、SAML、2FA，没问题。Google、Okta、Auth0 等 - 自带提供商。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="91406042" _msthash="351">👩 💻👨 💻 人类的 Git 控制</h4><a id="user-content--git-control-for-humans" class="anchor" aria-label="永久链接：👩 💻👨 💻人类的 Git 控制" href="#-git-control-for-humans" _mstaria-label="130713271" _msthash="352"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1310196875" _msthash="353">Lowdefy 的最小配置旨在易于阅读、编写和理解，使复制、粘贴、查看更改或从其他人离开的地方继续变得简单。使用结构化架构定义应用程序可以加快任何规模的团队的开发速度。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="123587035" _msthash="354">🔑 公共、经过身份验证和基于角色的访问</h4><a id="user-content--public-authenticated-and-role-based-access" class="anchor" aria-label="永久链接：🔑公共、经过身份验证和基于角色的访问" href="#-public-authenticated-and-role-based-access" _mstaria-label="27558609" _msthash="355"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1092546520" _msthash="356">Lowdefy 支持构建具有公共和私有页面的多页面应用程序，适用于各种用例。基于角色的访问控制 （RBAC） 允许在需要时轻松实施安全、精细的访问控制。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="78137176" _msthash="357">Lowdefy 应用程序如何工作 👉 <a href="https://docs.lowdefy.com" rel="nofollow" _istranslated="1">https://docs.lowdefy.com</a></h3><a id="user-content-how-lowdefy-apps-work--httpsdocslowdefycom" class="anchor" aria-label="永久链接：Lowdefy 应用程序如何工作 👉 https://docs.lowdefy.com" href="#how-lowdefy-apps-work--httpsdocslowdefycom" _mstaria-label="53805869" _msthash="358"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="120103347" _msthash="359">Lowdefy 应用程序是使用以下方法构建的：</p>
+<ul dir="auto">
+<li _msttexthash="716363752" _msthash="360">📦 <a href="https://docs.lowdefy.com/blocks" rel="nofollow" _istranslated="1">块</a>是应用程序的可视化部分，即 React 组件。Lowdefy 提供了一组默认块类型，但应用程序功能可以通过自定义块进行扩展。</li>
+<li _msttexthash="1109007614" _msthash="361">⚙️ <a href="https://docs.lowdefy.com/operators" rel="nofollow" _istranslated="1">运算符</a>是用于在应用程序中表达逻辑的函数。Lowdefy 具有许多易于使用的内置运算符函数，可轻松创建动态应用程序，但是，也可以加载自定义 javascript 运算符。</li>
+<li _msttexthash="1221794002" _msthash="362">⚡️ <a href="https://docs.lowdefy.com/events-and-actions" rel="nofollow" _istranslated="1">操作</a>由事件触发，例如点击按钮或加载页面。触发事件时，可以调用 javascript 函数列表。Lowdefy 具有一组有用的操作，但可以通过添加自定义 Lowdefy 操作来丰富应用程序功能。</li>
+<li _msttexthash="914449757" _msthash="363">📣 <a href="https://docs.lowdefy.com/connections-and-requests" rel="nofollow" _istranslated="1">请求</a>调用外部服务以使用数据冻结应用程序或将数据发布到外部服务。Lowdefy 没有内置任何数据存储。相反，它提供与数据库和 API 等外部服务的连接。</li>
+</ul>
+<p dir="auto" _msttexthash="217786803" _msthash="364">我们正在努力扩展连接列表，您可以<a href="https://github.com/lowdefy/lowdefy/discussions/309" data-hovercard-type="discussion" data-hovercard-url="/lowdefy/lowdefy/discussions/309/hovercard" _istranslated="1">在此处</a>为您需要的连接投票。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11905335" _msthash="365">快速开始</h2><a id="user-content-quick-start" class="anchor" aria-label="永久链接： 快速入门" href="#quick-start" _mstaria-label="446966" _msthash="366"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="10095579" _msthash="367">跑：</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pnpx lowdefy@latest init <span class="pl-k">&amp;&amp;</span> pnpx lowdefy@latest dev</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pnpx lowdefy@latest init &amp;&amp; pnpx lowdefy@latest dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="1425707179" _msthash="368">这将创建一个在当前工作目录中调用的文件，其中包含 Lowdefy 应用程序（以及 ）的配置，并在 <a href="http://localhost:3000" rel="nofollow" _mstmutation="1" _istranslated="1">http://localhost:3000</a> 启动本地开发服务器。在文件中进行更改，以便看到它们反映在应用程序中。</font><code>lowdefy.yaml</code><code>.gitignore</code><code>lowdefy.yaml</code></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="32332833" _msthash="369">🔗 更多 Lowdefy 链接</h3><a id="user-content--more-lowdefy-links" class="anchor" aria-label="永久链接：🔗更多 Lowdefy 链接" href="#-more-lowdefy-links" _mstaria-label="26195130" _msthash="370"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="13201136" _msthash="371">Lowdefy 入门 - <a href="https://docs.lowdefy.com/tutorial-start" rel="nofollow" _istranslated="1">https://docs.lowdefy.com/tutorial-start</a></li>
+<li _msttexthash="12792299" _msthash="372">Lowdefy 网站 - <a href="https://lowdefy.com" rel="nofollow" _istranslated="1">https://lowdefy.com</a></li>
+<li _msttexthash="14236716" _msthash="373">社区论坛 - <a href="https://github.com/lowdefy/lowdefy/discussions" _istranslated="1">https://github.com/lowdefy/lowdefy/discussions</a></li>
+<li _msttexthash="5548491" _msthash="374">加入 Lowdefy Discord - <a href="https://discord.gg/WmcJgXt" rel="nofollow" _istranslated="1">https://discord.gg/WmcJgXt</a></li>
+<li _msttexthash="34147945" _msthash="375">Bug 报告和功能请求 - <a href="https://github.com/lowdefy/lowdefy/issues" _istranslated="1">https://github.com/lowdefy/lowdefy/issues</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="27038960" _msthash="376">⛹️ ♀️ 贡献</h3><a id="user-content-️️-contributing" class="anchor" aria-label="永久链接： ⛹️ ♀️ 贡献" href="#️️-contributing" _mstaria-label="40355991" _msthash="377"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8688745" _msthash="378">Lowdefy 插件</h4><a id="user-content-lowdefy-plugins" class="anchor" aria-label="永久链接：Lowdefy 插件" href="#lowdefy-plugins" _mstaria-label="598091" _msthash="379"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="733039268" _msthash="380">为 Lowdefy 做出贡献的最简单方法是创建自定义插件，如 Blocks、Actions、Requests、Operators 或 Auth Adapters 和 Providers，并将它们发布到 NPM 以造福社区。</p>
+<p dir="auto" _msttexthash="617932978" _msthash="381">在任何 Lowdefy 项目中轻松添加和开发插件;请参阅 <a href="https://github.com/lowdefy/lowdefy-example-plugins" _istranslated="1">Plugins 项目示例</a>，了解 PNPM monorepo 设置，以快速启动本地插件开发。</p>
+<p dir="auto"><font _mstmutation="1" _msttexthash="360173619" _msthash="382">将插件发布到 NPM 时，请在名称中包含以便于发现，并在我们的 <a href="https://github.com/lowdefy/lowdefy/discussions" _mstmutation="1" _istranslated="1">Github Discussions</a> 上分享以通知社区。</font><code>lowdefy</code></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="18487482" _msthash="383">Lowdefy 平台开发</h4><a id="user-content-lowdefy-platform-development" class="anchor" aria-label="永久链接：Lowdefy 平台开发" href="#lowdefy-platform-development" _mstaria-label="1197456" _msthash="384"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="444204280" _msthash="385">通过将 Lowdefy 配置添加到文件夹，在本地运行 Lowdefy 服务器。使用以下脚本之一连接到服务器：</font><code>app/..</code></p>
+<ul dir="auto">
+<li><code>pnpm app:cli:dev</code><font _mstmutation="1" _msttexthash="251557709" _msthash="386">：使用文件夹中提供的配置启动开发服务器，这对于本地开发非常有用。</font><code>app</code></li>
+<li><code>pnpm app:cli:build</code><font _mstmutation="1" _msttexthash="164797529" _msthash="387">：为文件夹中提供的配置创建 lowdefy 应用程序的生产版本。</font><code>app</code></li>
+<li><code>pnpm app:cli:start</code><font _mstmutation="1" _msttexthash="161350852" _msthash="388">：启动使用命令输出构建的 lowdefy 应用程序的生产服务器。</font><code>build</code></li>
+</ul>
+<blockquote>
+<p dir="auto"><font _mstmutation="1" _msttexthash="110058780" _msthash="389">有关更多预定义脚本，请参阅项目脚本。</font><code>package.json</code></p>
+</blockquote>
+<p dir="auto" _msttexthash="17613921" _msthash="390">另请参阅 <a href="https://github.com/lowdefy/lowdefy/blob/main/CONTRIBUTING.md" _istranslated="1">CONTRIBUTING.md</a>。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="21661172" _msthash="391">☕️ 更改日志</h3><a id="user-content-️-changelog" class="anchor" aria-label="永久链接： ☕️ Changelog" href="#️-changelog" _mstaria-label="17792970" _msthash="392"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="107877575" _msthash="393">将 v3 应用程序转换为 v4 - <a href="https://docs.lowdefy.com/v3-to-v4" rel="nofollow" _istranslated="1">请参阅 v4 转换说明。</a></p>
+<p dir="auto" _msttexthash="76842402" _msthash="394">对此项目的所有更改都记录在 <a href="https://github.com/lowdefy/lowdefy/blob/main/CHANGELOG.md" _istranslated="1">CHANGELOG.md</a> 中。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="16373916" _msthash="395">🔐 安全</h3><a id="user-content--security" class="anchor" aria-label="永久链接： 🔐 安全性" href="#-security" _mstaria-label="25875824" _msthash="396"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="217801792" _msthash="397">如果您发现漏洞，请按照 <a href="https://github.com/lowdefy/lowdefy/blob/main/SECURITY.md" _istranslated="1">SECURITY.md</a> 中的指南负责任地向我们披露。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="23882456" _msthash="398">🤝 行为准则</h3><a id="user-content--code-of-conduct" class="anchor" aria-label="永久链接： 🤝 行为准则" href="#-code-of-conduct" _mstaria-label="26056771" _msthash="399"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="595144719" _msthash="400">为了营造一个开放和友好的环境，我们作为贡献者和维护者承诺遵守<a href="https://www.contributor-covenant.org" rel="nofollow" _istranslated="1">贡献者公约</a>行为准则。有关更多信息，请参阅 <a href="https://github.com/lowdefy/lowdefy/blob/main/CODE_OF_CONDUCT.md" _istranslated="1">CODE_OF_CONDUCT.md</a>。</p>
+</article></div>
